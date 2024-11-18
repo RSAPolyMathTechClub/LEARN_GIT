@@ -14,12 +14,15 @@ git config --global user.name "Your Name"
 ## CHECK SETUP
 
 ```bash
+
 git config --list
+
 ```
 
 - OR
 
 ```bash
+
 git config user.name
 git config user.email
 
@@ -51,7 +54,7 @@ git push -u origin main
 ```
 
 - TO PUSH TO MAIN YOU MAY USE : git push
-- TO PUSH TO BRANCH YOU MAY USE :  
+- TO PUSH TO BRANCH YOU MAY USE :  {TODO}
 
 ## CLONE
 
@@ -59,7 +62,11 @@ git push -u origin main
 
 git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/my_first_repository.git
 
-e.g
+```
+
+- e.g
+
+```bash
 
 git clone https://{YOUR_PERSONAL_TOKEN}@github.com/RSAPolyMathTechClub/my_first_repository.git
 
